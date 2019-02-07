@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dr. Olli Sakari Rummukainen on Dr. Olli Sakari Rummukainen</title>
-    <link>https://rummukainen.github.io/</link>
-    <description>Recent content in Dr. Olli Sakari Rummukainen on Dr. Olli Sakari Rummukainen</description>
+    <title>O. S. Rummukainen on Dr. Olli Sakari Rummukainen</title>
+    <link>https://rummukainen.github.io/authors/o.-s.-rummukainen/</link>
+    <description>Recent content in O. S. Rummukainen on Dr. Olli Sakari Rummukainen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 26 Oct 2018 00:00:00 +0200</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://rummukainen.github.io/authors/o.-s.-rummukainen/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Self Translation Induced Minimum Audible Angle</title>

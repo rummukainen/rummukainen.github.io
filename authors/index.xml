@@ -10,5 +10,32 @@
 	<atom:link href="https://rummukainen.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Emanuël A. P. Habets</title>
+      <link>https://rummukainen.github.io/authors/emanu%C3%ABl-a.-p.-habets/</link>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://rummukainen.github.io/authors/emanu%C3%ABl-a.-p.-habets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>O. S. Rummukainen</title>
+      <link>https://rummukainen.github.io/authors/o.-s.-rummukainen/</link>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://rummukainen.github.io/authors/o.-s.-rummukainen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sebastian J. Schlecht</title>
+      <link>https://rummukainen.github.io/authors/sebastian-j.-schlecht/</link>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://rummukainen.github.io/authors/sebastian-j.-schlecht/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
