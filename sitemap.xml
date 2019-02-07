@@ -11,14 +11,6 @@
     
     <url>
     
-      <loc>https://rummukainen.github.io/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://rummukainen.github.io/author/</loc>
       <priority>0</priority>
     </url>
@@ -36,6 +28,14 @@
     <url>
     
       <loc>https://rummukainen.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rummukainen.github.io/</loc>
       <priority>0</priority>
     </url>
     
