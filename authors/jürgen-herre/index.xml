@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jürgen Herre on Dr Olli Sakari Rummukainen</title>
+    <link>https://rummukainen.github.io/authors/j%C3%BCrgen-herre/</link>
+    <description>Recent content in Jürgen Herre on Dr Olli Sakari Rummukainen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Oct 2018 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://rummukainen.github.io/authors/j%C3%BCrgen-herre/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Evaluation of Binaural Renderers in Virtual Reality Environments: Platform and Examples</title>
+      <link>https://rummukainen.github.io/publication/evaluation-of-binaural-renderers-in-virtual-reality-environments-platform-and-examples/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://rummukainen.github.io/publication/evaluation-of-binaural-renderers-in-virtual-reality-environments-platform-and-examples/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online vs. Offline Multiple Stimulus Audio Quality Evaluation for Virtual Reality</title>
+      <link>https://rummukainen.github.io/publication/online-vs-offline-multiple-stimulus-audio-quality-evaluation-for-virtual-reality/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://rummukainen.github.io/publication/online-vs-offline-multiple-stimulus-audio-quality-evaluation-for-virtual-reality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audio Quality Evaluation in Virtual Reality: Multiple Stimulus Ranking with Behavior Tracking</title>
+      <link>https://rummukainen.github.io/publication/audio-quality-evaluation-in-virtual-reality-multiple-stimulus-ranking-with-behavior-tracking/</link>
+      <pubDate>Sat, 11 Aug 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://rummukainen.github.io/publication/audio-quality-evaluation-in-virtual-reality-multiple-stimulus-ranking-with-behavior-tracking/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

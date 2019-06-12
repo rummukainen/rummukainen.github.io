@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 on Dr. Olli Sakari Rummukainen</title>
+    <title>2 on Dr Olli Sakari Rummukainen</title>
     <link>https://rummukainen.github.io/publication_types/2/</link>
-    <description>Recent content in 2 on Dr. Olli Sakari Rummukainen</description>
+    <description>Recent content in 2 on Dr Olli Sakari Rummukainen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 26 Oct 2018 00:00:00 +0200</lastBuildDate>
@@ -12,11 +12,56 @@
     
     
     <item>
-      <title>Self Translation Induced Minimum Audible Angle</title>
+      <title>Self-Translation Induced Minimum Audible Angle</title>
       <link>https://rummukainen.github.io/publication/self-translation-induced-minimum-audible-angle/</link>
       <pubDate>Fri, 26 Oct 2018 00:00:00 +0200</pubDate>
       
       <guid>https://rummukainen.github.io/publication/self-translation-induced-minimum-audible-angle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reproducing reality: Multimodal contributions in natural scene discrimination</title>
+      <link>https://rummukainen.github.io/publication/reproducing-reality-multimodal-contributions-in-natural-scene-discrimination/</link>
+      <pubDate>Thu, 25 Aug 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://rummukainen.github.io/publication/reproducing-reality-multimodal-contributions-in-natural-scene-discrimination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diffuse Field Modeling Using Physically-Inspired Decorrelation Filters and B-Format Microphones: Part II Evaluation</title>
+      <link>https://rummukainen.github.io/publication/diffuse-field-modeling-using-physically-inspired-decorrelation-filters-and-b-format-microphones-part-ii-evaluation/</link>
+      <pubDate>Thu, 21 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://rummukainen.github.io/publication/diffuse-field-modeling-using-physically-inspired-decorrelation-filters-and-b-format-microphones-part-ii-evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VQone MATLAB toolbox: A graphical experiment builder for image and video quality evaluations</title>
+      <link>https://rummukainen.github.io/publication/vqone-matlab-toolbox-a-graphical-experiment-builder-for-image-and-video-quality-evaluations/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://rummukainen.github.io/publication/vqone-matlab-toolbox-a-graphical-experiment-builder-for-image-and-video-quality-evaluations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Task-Relevant Spatialized Auditory Cues Enhance Attention Orientation and Peripheral Target Detection in Natural Scenes</title>
+      <link>https://rummukainen.github.io/publication/task-relevant-spatialized-auditory-cues-enhance-attention-orientation-and-peripheral-target-detection-in-natural-scenes/</link>
+      <pubDate>Tue, 26 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://rummukainen.github.io/publication/task-relevant-spatialized-auditory-cues-enhance-attention-orientation-and-peripheral-target-detection-in-natural-scenes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Categorization of Natural Dynamic Audiovisual Scenes</title>
+      <link>https://rummukainen.github.io/publication/categorization-of-natural-dynamic-audiovisual-scenes/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0200</pubDate>
+      
+      <guid>https://rummukainen.github.io/publication/categorization-of-natural-dynamic-audiovisual-scenes/</guid>
       <description></description>
     </item>
     

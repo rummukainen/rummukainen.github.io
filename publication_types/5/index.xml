@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>5 on Dr Olli Sakari Rummukainen</title>
+    <link>https://rummukainen.github.io/publication_types/5/</link>
+    <description>Recent content in 5 on Dr Olli Sakari Rummukainen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Dec 2016 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://rummukainen.github.io/publication_types/5/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reproducing Reality: Perception and Quality in Immersive Audiovisual Environments</title>
+      <link>https://rummukainen.github.io/publication/reproducing-reality-perception-and-quality-in-immersive-audiovisual-environments/</link>
+      <pubDate>Tue, 13 Dec 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://rummukainen.github.io/publication/reproducing-reality-perception-and-quality-in-immersive-audiovisual-environments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audiovisual Reproduction in Surrounding Display: Effect of Spatial Width of Audio and Video</title>
+      <link>https://rummukainen.github.io/publication/audiovisual-reproduction-in-surrounding-display-effect-of-spatial-width-of-audio-and-video_thesis/</link>
+      <pubDate>Sat, 31 Dec 2011 00:00:00 +0100</pubDate>
+      
+      <guid>https://rummukainen.github.io/publication/audiovisual-reproduction-in-surrounding-display-effect-of-spatial-width-of-audio-and-video_thesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

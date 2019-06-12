@@ -1,22 +1,94 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Emanuël A. P. Habets on Dr. Olli Sakari Rummukainen</title>
+    <title>Emanuël A. P. Habets on Dr Olli Sakari Rummukainen</title>
     <link>https://rummukainen.github.io/authors/emanu%C3%ABl-a.-p.-habets/</link>
-    <description>Recent content in Emanuël A. P. Habets on Dr. Olli Sakari Rummukainen</description>
+    <description>Recent content in Emanuël A. P. Habets on Dr Olli Sakari Rummukainen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Oct 2018 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2019 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://rummukainen.github.io/authors/emanu%C3%ABl-a.-p.-habets/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Self Translation Induced Minimum Audible Angle</title>
+      <title>Perceptual Study of Near-Field Binaural Audio Rendering in Six-Degrees-of-Freedom Virtual Reality</title>
+      <link>https://rummukainen.github.io/publication/perceptual-study-of-near-field-binaural-audio-rendering-in-six-degrees-of-freedom-virtual-reality/</link>
+      <pubDate>Sat, 23 Mar 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://rummukainen.github.io/publication/perceptual-study-of-near-field-binaural-audio-rendering-in-six-degrees-of-freedom-virtual-reality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Translation Induced Minimum Audible Angle</title>
       <link>https://rummukainen.github.io/publication/self-translation-induced-minimum-audible-angle/</link>
       <pubDate>Fri, 26 Oct 2018 00:00:00 +0200</pubDate>
       
       <guid>https://rummukainen.github.io/publication/self-translation-induced-minimum-audible-angle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of Binaural Renderers in Virtual Reality Environments: Platform and Examples</title>
+      <link>https://rummukainen.github.io/publication/evaluation-of-binaural-renderers-in-virtual-reality-environments-platform-and-examples/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://rummukainen.github.io/publication/evaluation-of-binaural-renderers-in-virtual-reality-environments-platform-and-examples/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of Visual Content on the Perceived Audio Quality in Virtual Reality</title>
+      <link>https://rummukainen.github.io/publication/influence-of-visual-content-on-the-perceived-audio-quality-in-virtual-reality/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://rummukainen.github.io/publication/influence-of-visual-content-on-the-perceived-audio-quality-in-virtual-reality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online vs. Offline Multiple Stimulus Audio Quality Evaluation for Virtual Reality</title>
+      <link>https://rummukainen.github.io/publication/online-vs-offline-multiple-stimulus-audio-quality-evaluation-for-virtual-reality/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://rummukainen.github.io/publication/online-vs-offline-multiple-stimulus-audio-quality-evaluation-for-virtual-reality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audio Quality Evaluation in Virtual Reality: Multiple Stimulus Ranking with Behavior Tracking</title>
+      <link>https://rummukainen.github.io/publication/audio-quality-evaluation-in-virtual-reality-multiple-stimulus-ranking-with-behavior-tracking/</link>
+      <pubDate>Sat, 11 Aug 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://rummukainen.github.io/publication/audio-quality-evaluation-in-virtual-reality-multiple-stimulus-ranking-with-behavior-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Six-Degrees-of-Freedom Binaural Audio Reproduction of First-Order Ambisonics with Distance Information</title>
+      <link>https://rummukainen.github.io/publication/six-degrees-of-freedom-binaural-audio-reproduction-of-first-order-ambisonics-with-distance-information/</link>
+      <pubDate>Sat, 11 Aug 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://rummukainen.github.io/publication/six-degrees-of-freedom-binaural-audio-reproduction-of-first-order-ambisonics-with-distance-information/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Binaural Reproduction Systems from Behavioral Patterns in a Virtual Reality—A Case Study with Impaired Binaural Cues and Tracking Latency</title>
+      <link>https://rummukainen.github.io/publication/evaluating-binaural-reproduction-systems-from-behavioral-patterns-in-a-virtual-reality-a-case-study-with-impaired-binaural-cues-and-tracking-latency/</link>
+      <pubDate>Sun, 08 Oct 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://rummukainen.github.io/publication/evaluating-binaural-reproduction-systems-from-behavioral-patterns-in-a-virtual-reality-a-case-study-with-impaired-binaural-cues-and-tracking-latency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of Binaural Reproduction Systems from Behavioral Patterns in a Six-Degrees-of-Freedom Wayfinding Task</title>
+      <link>https://rummukainen.github.io/publication/evaluation-of-binaural-reproduction-systems-from-behavioral-patterns-in-a-six-degrees-of-freedom-wayfinding-task/</link>
+      <pubDate>Tue, 30 May 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://rummukainen.github.io/publication/evaluation-of-binaural-reproduction-systems-from-behavioral-patterns-in-a-six-degrees-of-freedom-wayfinding-task/</guid>
       <description></description>
     </item>
     
